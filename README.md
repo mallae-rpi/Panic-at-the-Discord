@@ -9,6 +9,16 @@ However, as college approached, priorities shifted. Homework piles grew taller, 
 
 The game reflects this journey by alternating between two phases: one focused on the playful chaos of Discord interactions and another centered on balancing real-life obligations with maintaining those digital friendships. Through its mechanics, *Panic! at the Discord* captures the joy of sharing laughter in a group chat, the frustration of feeling overwhelmed by external pressures, and the regretful realization that sometimes, no matter how hard you try, people grow apart. By simulating these dynamics, the game invites players to reflect on their own experiences with online communities and the inevitable changes that come with growing up.
 
+### Engaging with Themes of Social Media and Emerging Gaming Trends
+
+#### Social Media Dynamics
+
+At its essence, *Panic! At The Discord* is a coming-of-age game that explores how friendships evolve in the digital age. Platforms like Discord have transformed how we connect, offering spaces where relationships are forged, tested, and sometimes fade over time. Originally designed for gaming, Discord has become a hub for shared experiences, from memes to heartfelt conversations. The game mirrors this dynamic through chaotic group chat interactions: posting memes, crafting witty captions, and reacting to messages. These mechanics highlight both the humor and challenges of maintaining connections online.
+
+The game also delves into parasocial relationships, where players form bonds despite competing against each other, reflecting how online communities blend rivalry and camaraderie. In the cooperative phase, players must balance real-life responsibilities with staying active in the server, emphasizing the effort required to sustain friendships. This tension reflects the curated nature of social media personas and the bittersweet reality of growing up digitally.
+
+#### Emerging Gaming Trends
+
 ## Mechanics & Gameplay Breakdown
 
 [^1]: Working title; will likely need to be changed due to copyright
