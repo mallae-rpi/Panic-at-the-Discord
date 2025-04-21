@@ -25,5 +25,22 @@ The game combines competitive and cooperative mechanics, a trend seen in games l
 
 ## Mechanics & Gameplay Breakdown
 
+### Core Gameplay Loop
+
+A multiplayer party game, *Panic! at the Discord* alternates between two distinct phases, each designed to reflect different aspects of online interaction and personal growth. These phases are structured around recreating the chaotic yet meaningful experience of managing a high school Discord server while growing apart over time.
+
+#### Phase 1: Competitive Discord Antics
+In this phase, players engage in humorous, chaotic interactions across four unique channels, each with its own twist on communication and creativity: #general-chat, #photo-chat, #pfp-chat, and #legally-binding-documentation. This phase draws heavily from games like *Survive the Internet* and *Cards Against Humanity*, blending competitive humor with collaborative storytelling.
+
+1. #general-chat
+   - Players receive prompts inspired by typical Discord conversations. After submitting their response, another player responds to it as if they’re part of the chat. Then, the original poster edits their message to make the responder look foolish or absurd.
+   - Votes determine which edited post is funniest or most clever.
+2. #photo-chat
+   - Players are shown an image and tasked with writing a caption under another player’s name. The goal is to create a caption that makes the named player seem ridiculous or outlandish. Players can use pre-provided images or upload their own for added personalization.
+3. #pfp-chat
+   - Each player receives another player’s profile picture (or uploads one) and must draw on it based on a prompt. While the game provides suggestions, players are encouraged to interpret the prompt creatively, adding hilarious twists.
+4. #legally-binding-documentation
+   - Inspired by *Cards Against Humanity*, players choose from three joke legal documents with blank sections (e.g., “Agreement to Never Speak About ___ Again”). Another player fills in the blank using either provided options or their own input. The results can range from absurdly funny to hilariously specific inside jokes.
+
 
 [^1]: Working title; will likely need to be changed due to copyright
