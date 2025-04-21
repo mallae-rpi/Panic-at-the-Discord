@@ -69,5 +69,7 @@ In Phase 2, players collaborate to balance real-life responsibilities with Disco
    - Randomized prompts and events ensure no two playthroughs are identical. This procedural storytelling approach keeps gameplay fresh and unpredictable, reflecting the influence of games like *The Jackbox Party Pack* series, which thrive on improvisation and adaptability. The uniqueness in each playthrough may even increase player engagement in streaming platforms such as Twitch.
 3. Community-Focused Gaming
    - Inspired by Discord itself, the game celebrates the role of online communities in fostering friendships and shared experiences. With its collaborative challenges and competitive antics, *Panic! at the Discord* emphasizes the importance of human connection in an increasingly digital world.
+  
+![general-chat](images/general-chat.png)
 
 [^1]: Working title; will likely need to be changed due to copyright
