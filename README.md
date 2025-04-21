@@ -71,5 +71,6 @@ In Phase 2, players collaborate to balance real-life responsibilities with Disco
    - Inspired by Discord itself, the game celebrates the role of online communities in fostering friendships and shared experiences. With its collaborative challenges and competitive antics, *Panic! at the Discord* emphasizes the importance of human connection in an increasingly digital world.
   
 ![general-chat](images/general-chat.png)
+![phase2](images/phase2.png)
 
 [^1]: Working title; will likely need to be changed due to copyright
