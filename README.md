@@ -41,6 +41,25 @@ In this phase, players engage in humorous, chaotic interactions across four uniq
    - Each player receives another player’s profile picture (or uploads one) and must draw on it based on a prompt. While the game provides suggestions, players are encouraged to interpret the prompt creatively, adding hilarious twists.
 4. #legally-binding-documentation
    - Inspired by *Cards Against Humanity*, players choose from three joke legal documents with blank sections (e.g., “Agreement to Never Speak About ___ Again”). Another player fills in the blank using either provided options or their own input. The results can range from absurdly funny to hilariously specific inside jokes.
+  
+At the end of Phase 1, all responses are displayed anonymously, and players vote on their favorites. Points are awarded based on votes, with bonuses for successfully trolling others or creating standout content.
+
+#### Phase 2: Balancing Real Life vs. Discord Life
+
+
+After the chaos of Phase 1, players shift to a cooperative challenge where they must balance real-life responsibilities with staying active in the Discord server. Each player manages two meters:
+
+- Real-Life Meter : Tracks academic/work obligations.
+- Discord Meter : Tracks engagement in the server.
+
+Players complete randomized task cards representing activities like “Finish your AP US History one-pager” (+Real-Life Meter) or “Post a meme about procrastination” (+Discord Meter). Success depends on teamwork. At the end of the phase, individual meters combine to determine whether the group maintains equilibrium (symbolizing that they remained close despite life’s challenges), or becomes too focused on either real life or the Discord server (causing the friendship to fade over time). Each round will introduce a variant of Phase 2 more difficult to balance than the last; for example, there will be an myriad of more responsibilities to complete while having to prepare for AP exams than during earlier in the high school year.
+
+### How Interaction Works
+Interaction in “Panic! At The Discord” is overall divided between competitive creativity and cooperative strategy. 
+
+In Phase 1, players compete by crafting humorous responses to prompts, editing messages, or captioning images to make others look foolish; a mechanic inspired by games like *Survive the Internet*. Voting determines winners, emphasizing audience engagement and rewarding wit.
+
+In Phase 2, players collaborate to balance real-life responsibilities with Discord activity using randomized task cards. Communication and teamwork are essential as players strategize to maintain the balance, reflecting the effort required to sustain contact in the face of external pressures. This mix of competition and cooperation reflects the way online and offline life interact with each other.
 
 
 [^1]: Working title; will likely need to be changed due to copyright
