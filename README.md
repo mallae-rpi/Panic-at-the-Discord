@@ -13,12 +13,13 @@ The game reflects this journey by alternating between two phases: one focused on
 
 #### Social Media Dynamics
 
-At its essence, *Panic! At The Discord* is a coming-of-age game that explores how friendships evolve in the digital age. Platforms like Discord have transformed how we connect, offering spaces where relationships are forged, tested, and sometimes fade over time. Originally designed for gaming, Discord has become a hub for shared experiences, from memes to heartfelt conversations. The game mirrors this dynamic through chaotic group chat interactions: posting memes, crafting witty captions, and reacting to messages. These mechanics highlight both the humor and challenges of maintaining connections online.
+At its essence, *Panic! at the Discord* is a coming-of-age game that explores how friendships evolve in the digital age. Platforms like Discord have transformed how we connect, offering spaces where relationships are forged, tested, and sometimes fade over time. Originally designed for gaming, Discord has become a hub for shared experiences, from memes to heartfelt conversations. The game mirrors this dynamic through chaotic group chat interactions: posting memes, crafting witty captions, and reacting to messages. These mechanics highlight both the humor and challenges of maintaining connections online.
 
 The game also delves into parasocial relationships, where players form bonds despite competing against each other, reflecting how online communities blend rivalry and camaraderie. In the cooperative phase, players must balance real-life responsibilities with staying active in the server, emphasizing the effort required to sustain friendships. This tension reflects the curated nature of social media personas and the bittersweet reality of growing up digitally.
 
 #### Emerging Gaming Trends
 
 ## Mechanics & Gameplay Breakdown
+*Panic! at the Discord* incorporates procedural storytelling, with prompts and events adapting to player progress. Early rounds focus on lighthearted high school scenarios, while later rounds tackle more stressfull college pressures. This creates an organic narrative arc that reflects real-life transitions.
 
 [^1]: Working title; will likely need to be changed due to copyright
