@@ -1,1 +1,3 @@
-# Panic-at-the-Discord
+# Panic! at the Discord[^1]
+
+[^1]: Working title
