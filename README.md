@@ -49,17 +49,25 @@ At the end of Phase 1, all responses are displayed anonymously, and players vote
 
 After the chaos of Phase 1, players shift to a cooperative challenge where they must balance real-life responsibilities with staying active in the Discord server. Each player manages two meters:
 
-- Real-Life Meter : Tracks academic/work obligations.
-- Discord Meter : Tracks engagement in the server.
+- Real-Life Meter: Tracks academic/work obligations.
+- Discord Meter: Tracks engagement in the server.
 
 Players complete randomized task cards representing activities like “Finish your AP US History one-pager” (+Real-Life Meter) or “Post a meme about procrastination” (+Discord Meter). Success depends on teamwork. At the end of the phase, individual meters combine to determine whether the group maintains equilibrium (symbolizing that they remained close despite life’s challenges), or becomes too focused on either real life or the Discord server (causing the friendship to fade over time). Each round will introduce a variant of Phase 2 more difficult to balance than the last; for example, there will be an myriad of more responsibilities to complete while having to prepare for AP exams than during earlier in the high school year.
 
 ### How Interaction Works
-Interaction in “Panic! At The Discord” is overall divided between competitive creativity and cooperative strategy. 
+Interaction in “Panic! at the Discord” is overall divided between competitive creativity and cooperative strategy. 
 
 In Phase 1, players compete by crafting humorous responses to prompts, editing messages, or captioning images to make others look foolish; a mechanic inspired by games like *Survive the Internet*. Voting determines winners, emphasizing audience engagement and rewarding wit.
 
 In Phase 2, players collaborate to balance real-life responsibilities with Discord activity using randomized task cards. Communication and teamwork are essential as players strategize to maintain the balance, reflecting the effort required to sustain contact in the face of external pressures. This mix of competition and cooperation reflects the way online and offline life interact with each other.
 
+### Reflecting Player Engagement Trends of the 2010s/2020s
+*Panic! at the Discord* reflects the following player engagement trends of the 2010s and 2020s:
+1. User-Generated Content
+   - By allowing players to upload their own images and personalize prompts, the game embraces the trend of user-generated content popularized by platforms like TikTok and Instagram. This customization not only enhances replayability but also promotes deeper connections among friends by allowing the players to navigate the game with content unique to the group.
+2. Procedural Storytelling
+   - Randomized prompts and events ensure no two playthroughs are identical. This procedural storytelling approach keeps gameplay fresh and unpredictable, reflecting the influence of games like *The Jackbox Party Pack* series, which thrive on improvisation and adaptability. The uniqueness in each playthrough may even increase player engagement in streaming platforms such as Twitch.
+3. Community-Focused Gaming
+   - Inspired by Discord itself, the game celebrates the role of online communities in fostering friendships and shared experiences. With its collaborative challenges and competitive antics, *Panic! at the Discord* emphasizes the importance of human connection in an increasingly digital world.
 
 [^1]: Working title; will likely need to be changed due to copyright
