@@ -4,4 +4,4 @@
 
 ## Mechanics & Gameplay Breakdown
 
-[^1]: Working title
+[^1]: Working title; will likely need to be changed due to copyright
