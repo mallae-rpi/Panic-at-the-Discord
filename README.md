@@ -19,9 +19,11 @@ The game also delves into parasocial relationships, where players form bonds des
 
 #### Emerging Gaming Trends
 
-## Mechanics & Gameplay Breakdown
 *Panic! at the Discord* incorporates procedural storytelling, with prompts and events adapting to player progress. Early rounds focus on lighthearted high school scenarios, while later rounds tackle more stressfull college pressures. This creates an organic narrative arc that reflects real-life transitions.
 
 The game combines competitive and cooperative mechanics, a trend seen in games like *Among Us*. Players compete for votes in the Discord antics phase but must collaborate to maintain balance in the real-life phase.
+
+## Mechanics & Gameplay Breakdown
+
 
 [^1]: Working title; will likely need to be changed due to copyright
