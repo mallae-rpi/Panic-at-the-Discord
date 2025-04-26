@@ -73,7 +73,13 @@ In Phase 2, players collaborate to balance real-life responsibilities with Disco
 ## Narrative and Worldbuilding
 While *Panic! at the Discord* does not follow a traditional linear narrative in the fashion of games like *The Last of Us* or *Red Dead Redemption 2*, it incorporates procedural storytelling to present a compelling emotional arc through its gameplay structure. Each round represents a snapshot in the life of an online friend group navigating adolescence and early adulthood, starting from the chaotic glee of inside jokes and shared memes, and culminating in the sobering difficulty of keeping in touch as life accelerates.
 
-The world of the game is a stylized simulation of a Discord server, albeit exaggerated for comedic and emotional effect. 
+The world of the game is a stylized simulation of a Discord server, albeit exaggerated for comedic and emotional effect. Players assume digital avatars that represent their presence in the server, and each server channel acts as a thematic “zone” where certain kinds of humor and interaction take place.
+
+However, beneath this simulation is a more poignant narrative: the gradual transformation of the server from a vibrant hub to a nostalgic artifact. As each round progresses, subtle changes in tone and challenge difficulty reflect the transition from high school freedom to college stress. Prompts in Phrase 2 of earlier rounds focus on carefree topics such as Halloween costumes, but more serious theme such as burnout and drifting apart are slowly introduced in later rounds. These changes are procedurally embedded in the prompts and event cards, building an emergent story without fixed scripting.
+
+The players create their own collective coming-of-age story through their responses and interactions. The game’s narrative is not dictated, but discovered. As groups play, they reflect back their own personalities and group dynamics, making each session feel like a personal time capsule of humor, identity, and fleeting connection.
+
+Importantly, *Panic! at the Discord* also acts as a digital love letter to the real server that inspired it. By translating that space into gameplay, the game doesn’t just revisit a memory; it honors it, preserving its quirks, inside jokes, and emotional highs and lows in interactive form. This can be especially be reflected in the decision to include #legally-binding-documentation as one of the server channels in Phase 1; the unusual name and contents of this channel were inspired by those of a real channel in my high school Discord server, and the uniqueness of this channel may remind players of the quirkiness of their own Discord servers. Even as the game pokes fun at internet absurdity, it treats the server, and the friendships within it, as something real and worth remembering.
   
 ![general-chat](images/general-chat.png)
 ![phase2](images/phase2.png)
