@@ -90,8 +90,12 @@ Ultimately, the worldbuilding in this game is not just a simple matter of design
 ## Art, Audio, and Presentation
 The visual and audio design of *Panic! at the Discord* has a critical role of complementing its tone and emotional arc, combining internet absurdity with a hint of nostalgia. The aesthetic draws heavy inspiration from Survive the Internet, adopting a chaotic, meme-forward style that captures the humor of online spaces. At the same time, it incorporates emotional cues that reflect the deeper themes of friendship, change, and digital memory.
 
-The game’s interface is styled like a stylized Discord window set against a customizable desktop background, evoking the everyday feel of late-night laptop conversations. The font will be pixelized just enough to give it a retro-digital texture without compromising readability, evoking the feeling of both early internet culture and modern social platforms.
+The game’s interface is styled like a stylized Discord window set against a customizable desktop background, evoking the everyday feel of late-night laptop conversations. The font will be pixelized just enough to give it a retro-digital texture, evoking the feeling of both early internet culture and modern social platforms.
 
-Audio design plays an equally important role in reinforcing mood and player immersion. The iconic Discord ping serves as the primary sound effect, occuring moments of interaction such as sending a message, getting a reaction, and receiving a task. 
+Audio design plays an equally important role in reinforcing mood and player immersion. The iconic Discord ping serves as the primary sound effect, occuring moments of interaction such as sending a message, getting a reaction, and receiving a task. These familiar sounds connect the experience in the real digital culture players are referencing.
+
+The soundtrack begins with bubbly, upbeat music reminiscent of *Overcooked* or *Survive the Internet*, matching the lighthearted chaos of the early rounds. As the game progresses and the tone becomes more bittersweet, the music shifts to slower, more reflective tracks. These draw emotional inspiration from the nostalgic final credits theme of *Super Mario 64* and the wistful, somewhat melancholic yet still energetic nature of Tears for Fears' "Everybody Wants to Rule the World." The gradual musical shift mirrors the emotional arc of the gameplay: starting in unfiltered fun and slowly giving way to introspective thinking on change and distance.
+
+This evolving presentation supports the game’s dual goals: to make players laugh in the moment and feel something deeper by the end.
 
 [^1]: Working title; will likely need to be changed due to copyright
