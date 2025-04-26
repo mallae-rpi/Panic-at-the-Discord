@@ -33,7 +33,7 @@ A multiplayer party game, *Panic! at the Discord* alternates between two distinc
 In this phase, players engage in humorous, chaotic interactions across four unique channels, each with its own twist on communication and creativity: #general-chat, #photo-chat, #pfp-chat, and #legally-binding-documentation. This phase draws heavily from games like *Survive the Internet* and *Cards Against Humanity*, blending competitive humor with collaborative storytelling.
 
 1. #general-chat
-   - Players receive prompts inspired by typical Discord conversations. After submitting their response, another player responds to it as if they’re part of the chat. Then, the original poster edits their message to make the responder look foolish or absurd.
+   - Players receive prompts inspired by typical Discord conversations. After submitting their response, another player responds to it as if they’re part of the chat. Then, the original poster edits their message to make the responder look foolish or absurd. For example, the original message could be "What is your overall GPA?" and a player could reply, "3.5." Afterward, another player could edit the original message to read "What is your IQ?" to make it seem as if the responder admitted that their IQ is 3.5.
    - Votes determine which edited post is funniest or most clever.
 2. #photo-chat
    - Players are shown an image and tasked with writing a caption under another player’s name. The goal is to create a caption that makes the named player seem ridiculous or outlandish. Players can use pre-provided images or upload their own for added personalization.
