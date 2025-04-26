@@ -87,4 +87,11 @@ Importantly, *Panic! at the Discord* also acts as a digital love letter to the r
 
 Ultimately, the worldbuilding in this game is not just a simple matter of designing a believable game environment. It is about emotionally reconstructing a space that once meant everything to a small group of people. That intimacy is what gives *Panic! at the Discord* its heart, and what allows players, especially those with their own digital pasts, to see a piece themselves in the fading pings and curious memes.
 
+## Art, Audio, and Presentation
+The visual and audio design of *Panic! at the Discord* has a critical role of complementing its tone and emotional arc, combining internet absurdity with a hint of nostalgia. The aesthetic draws heavy inspiration from Survive the Internet, adopting a chaotic, meme-forward style that captures the humor of online spaces. At the same time, it incorporates emotional cues that reflect the deeper themes of friendship, change, and digital memory.
+
+The game’s interface is styled like a stylized Discord window set against a customizable desktop background, evoking the everyday feel of late-night laptop conversations. The font will be pixelized just enough to give it a retro-digital texture without compromising readability, evoking the feeling of both early internet culture and modern social platforms.
+
+Audio design plays an equally important role in reinforcing mood and player immersion. The iconic Discord ping serves as the primary sound effect, occuring moments of interaction such as sending a message, getting a reaction, and receiving a task. 
+
 [^1]: Working title; will likely need to be changed due to copyright
