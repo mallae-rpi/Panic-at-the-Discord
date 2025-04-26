@@ -40,7 +40,7 @@ In this phase, players engage in humorous, chaotic interactions across four uniq
 3. #pfp-chat
    - Each player receives another player’s profile picture (or uploads one) and must draw on it based on a prompt. While the game provides suggestions, players are encouraged to interpret the prompt creatively, adding hilarious twists.
 4. #legally-binding-documentation
-   - Inspired by *Cards Against Humanity*, players choose from three joke legal documents with blank sections (e.g., “Agreement to Never Speak About ___ Again”). Another player fills in the blank using either provided options or their own input. The results can range from absurdly funny to hilariously specific inside jokes.
+   - Inspired by *Cards Against Humanity*, players choose from three joke legal documents with blank sections (e.g., “Agreement to Never Speak About ___ Again”) and must affix their signature on the document. Another player fills in the blank using either provided options or their own input. The results can range from absurdly funny to hilariously specific inside jokes. For example, the initial document could read, "I hereby agree to abstain from ___ ever again," to which the player must sign their name in a space below. Then, the other player could fill in the blank space with "taking a shower," making the signer appear as if they agreed to an unhygenic behavior.
   
 At the end of Phase 1, all responses are displayed anonymously, and players vote on their favorites. Points are awarded based on votes, with bonuses for successfully trolling others or creating standout content.
 
