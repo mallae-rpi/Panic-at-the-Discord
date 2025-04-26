@@ -70,6 +70,11 @@ In Phase 2, players collaborate to balance real-life responsibilities with Disco
 3. Community-Focused Gaming
    - Inspired by Discord itself, the game celebrates the role of online communities in fostering friendships and shared experiences. With its collaborative challenges and competitive antics, *Panic! at the Discord* emphasizes the importance of human connection in an increasingly digital world.
   
+## Narrative and Worldbuilding
+While *Panic! at the Discord* does not follow a traditional linear narrative in the fashion of games like *The Last of Us* or *Red Dead Redemption 2*, it incorporates procedural storytelling to present a compelling emotional arc through its gameplay structure. Each round represents a snapshot in the life of an online friend group navigating adolescence and early adulthood, starting from the chaotic glee of inside jokes and shared memes, and culminating in the sobering difficulty of keeping in touch as life accelerates.
+
+The world of the game is a stylized simulation of a Discord server, albeit exaggerated for comedic and emotional effect. 
+  
 ![general-chat](images/general-chat.png)
 ![phase2](images/phase2.png)
 
