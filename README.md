@@ -80,6 +80,8 @@ However, beneath this simulation is a more poignant narrative: the gradual trans
 The players create their own collective coming-of-age story through their responses and interactions. The game’s narrative is not dictated, but discovered. As groups play, they reflect back their own personalities and group dynamics, making each session feel like a personal time capsule of humor, identity, and fleeting connection.
 
 Importantly, *Panic! at the Discord* also acts as a digital love letter to the real server that inspired it. By translating that space into gameplay, the game doesn’t just revisit a memory; it honors it, preserving its quirks, inside jokes, and emotional highs and lows in interactive form. This can be especially be reflected in the decision to include #legally-binding-documentation as one of the server channels in Phase 1; the unusual name and contents of this channel were inspired by those of a real channel in my high school Discord server, and the uniqueness of this channel may remind players of the quirkiness of their own Discord servers. Even as the game pokes fun at internet absurdity, it treats the server, and the friendships within it, as something real and worth remembering.
+
+Ultimately, the worldbuilding in this game is not just a simple matter of designing a believable game environment. It is about emotionally reconstructing a space that once meant everything to a small group of people. That intimacy is what gives *Panic! at the Discord* its heart, and what allows players, especially those with their own digital pasts, to see a piece themselves in the fading pings and curious memes.
   
 ![general-chat](images/general-chat.png)
 ![phase2](images/phase2.png)
