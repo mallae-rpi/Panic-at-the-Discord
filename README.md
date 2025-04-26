@@ -44,6 +44,8 @@ In this phase, players engage in humorous, chaotic interactions across four uniq
   
 At the end of Phase 1, all responses are displayed anonymously, and players vote on their favorites. Points are awarded based on votes, with bonuses for successfully trolling others or creating standout content.
 
+![general-chat](images/general-chat.png)
+
 #### Phase 2: Balancing Real Life vs. Discord Life
 
 
@@ -53,6 +55,8 @@ After the chaos of Phase 1, players shift to a cooperative challenge where they 
 - Discord Meter: Tracks engagement in the server.
 
 Players complete randomized task cards representing activities like “Finish your AP US History one-pager” (+Real-Life Meter) or “Post a meme about procrastination” (+Discord Meter). Success depends on teamwork. At the end of the phase, individual meters combine to determine whether the group maintains equilibrium (symbolizing that they remained close despite life’s challenges), or becomes too focused on either real life or the Discord server (causing the friendship to fade over time). Each round will introduce a variant of Phase 2 more difficult to balance than the last; for example, there will be an myriad of more responsibilities to complete while having to prepare for AP exams than during earlier in the high school year.
+
+![phase2](images/phase2.png)
 
 ### How Interaction Works
 Interaction in “Panic! at the Discord” is overall divided between competitive creativity and cooperative strategy. 
@@ -82,8 +86,5 @@ The players create their own collective coming-of-age story through their respon
 Importantly, *Panic! at the Discord* also acts as a digital love letter to the real server that inspired it. By translating that space into gameplay, the game doesn’t just revisit a memory; it honors it, preserving its quirks, inside jokes, and emotional highs and lows in interactive form. This can be especially be reflected in the decision to include #legally-binding-documentation as one of the server channels in Phase 1; the unusual name and contents of this channel were inspired by those of a real channel in my high school Discord server, and the uniqueness of this channel may remind players of the quirkiness of their own Discord servers. Even as the game pokes fun at internet absurdity, it treats the server, and the friendships within it, as something real and worth remembering.
 
 Ultimately, the worldbuilding in this game is not just a simple matter of designing a believable game environment. It is about emotionally reconstructing a space that once meant everything to a small group of people. That intimacy is what gives *Panic! at the Discord* its heart, and what allows players, especially those with their own digital pasts, to see a piece themselves in the fading pings and curious memes.
-  
-![general-chat](images/general-chat.png)
-![phase2](images/phase2.png)
 
 [^1]: Working title; will likely need to be changed due to copyright
