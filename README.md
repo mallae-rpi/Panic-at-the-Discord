@@ -98,4 +98,8 @@ The soundtrack begins with bubbly, upbeat music reminiscent of *Overcooked* or *
 
 This evolving presentation supports the game’s dual goals: to make players laugh in the moment and feel something deeper by the end.
 
+## Monetization and Player Interaction
+
+Panic! at the Discord will be available through a one-time purchase, with no ongoing subscriptions or in-game purchases. The goal is to keep the experience simple and accessible, especially for groups looking to play together without extra costs. Before each session, players have the option to upload their own prompts and images for Phase 1, letting them personalize the game with inside jokes, shared memories, or references that fit their group dynamic. This kind of customization adds replay value and helps make each playthrough feel more personal, which reflects how modern multiplayer games often lean into user-generated content to keep things fresh and engaging.
+
 [^1]: Working title; will likely need to be changed due to copyright
